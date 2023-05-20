@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684587710 source:c:\users\cetam\documents\aed2\mergesort e quicksort\mergesort e quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+
